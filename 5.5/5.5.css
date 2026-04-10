@@ -1,0 +1,112 @@
+.fadein{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: lightgray;
+    color: white;
+}
+
+.fadein:hover{
+    background-color: gray;
+    transition: 2s;
+}
+
+.changecolor{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+
+}
+
+.changecolor:hover{
+    background-color: rgba(44, 148, 196, 0.725);
+}
+
+.grow{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+
+.grow:hover{
+    transform: scale(1.2);
+    border: 20px solid white;
+    transition: 1s;
+
+}
+
+.shrink{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+
+.shrink:hover{
+    transform: scale(0.8) ;
+    transition: 1s;
+}
+
+.rotate{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+
+.rotate:hover{
+    transform: rotate(-35deg) ;
+    transition: 1s;
+}
+
+.Square-to-Circle{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+
+.Square-to-Circle:hover{
+    border-radius: 250px;
+    transition: 1s;
+}
+
+.insetborder{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+
+.insetborder:hover{
+    border: 10px inset blue ;
+}
