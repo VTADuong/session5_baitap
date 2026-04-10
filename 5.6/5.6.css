@@ -1,0 +1,81 @@
+/*ANH SO 1*/
+.kenh14{
+    box-sizing: border-box;
+    margin: 50px;
+    padding:0;
+    border: 1px solid black;
+    width: 310px;
+}
+
+.anhhoailam{
+    width:310px;
+    margin-bottom: -32px;
+}
+
+.view{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: white;
+    position: relative;/*hthi lớp nền*/
+    width: 310px;
+    height: 30px;
+}
+
+.noidung{
+    text-align: left;
+    width: 300px;
+    padding: 2px;
+}
+
+.mat{
+    background-color: orange;
+    border-radius: 70%;
+}
+
+/*ANH SO 2*/
+.suachua{
+    box-sizing: border-box;
+    margin: 50px;
+    width: 310px;
+}
+
+.suaoto{
+    width: 350px;
+    margin-top: -40px;
+
+}
+
+button{
+    background-color: rgba(180, 48, 48, 0.713);
+    color: white;
+    border-radius: 5%;
+    border: none;
+    position: relative;
+    margin: 10px;
+}
+
+.platform{
+    margin-top: -83px;
+    background-color: rgba(0, 0, 0, 0.544);
+    color: white;
+    position: relative;
+    width: 350px;
+}
+
+/*ANH SO 3*/
+.rikkeiedu{
+    box-sizing: border-box;
+    margin: 50px;
+    width: 320px;
+}
+
+.anhrikkei{
+    width: 320px;
+}
+
+.gioithieu{
+    margin-top: -120px;
+    background-color: rgba(0, 0, 0, 0.246);
+    color: white;
+    width: 320px;
+    position: relative;
+}
